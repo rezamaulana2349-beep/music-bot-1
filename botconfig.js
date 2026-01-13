@@ -1,5 +1,5 @@
 module.exports = {
-  Admins: ["1101826599386611792", "1101826599386611792"], //DEV'S
+  Admins: ["", "1101826599386611792"], //DEV'S
   ExpressServer: true, 
   DefaultPrefix: process.env.Prefix || ">",
   Port: 80, //Which port website gonna be hosted
