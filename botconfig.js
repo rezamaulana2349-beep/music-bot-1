@@ -4,7 +4,7 @@ module.exports = {
   DefaultPrefix: process.env.Prefix || ">",
   Port: 80, //Which port website gonna be hosted
   SupportServer: "https://discord.io/sciencegear", // Support Server Link
-  Token: process.env.Token || "MTQ2MDM2NDY3OTYwMzAzMjA5NQ.GXbpmX.dNY1dWs7pRfFs9R2Qqa5QQ2-R62YFBZtlciK2w", // Discord Bot Token
+  Token: process.env.Token || "MTQ2MDM2NDY3OTYwMzAzMjA5NQ.G1_ufi.aAZnD8uVvLp_tS46SwxqiWvjgSJRfoCzUmpzxA", // Discord Bot Token
   ClientID: process.env.Discord_ClientID || "1460364679603032095", 
   ClientSecret: process.env.Discord_ClientSecret || "oaQ8a76Om87M1p8nQwv1FZkmx8aJXLF0", 
   Scopes: ["identify", "guilds", "applications.commands"],
